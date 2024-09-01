@@ -1,4 +1,4 @@
-# Análise de sentimentos utilizando a API do Twitter e Azure
+# Análise de sentimentos utilizando a API
 
 ## Referências
 
